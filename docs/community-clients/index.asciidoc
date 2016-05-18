@@ -65,7 +65,7 @@ The following project appears to be abandoned:
   Go lib.
 
 * https://github.com/olivere/elastic[elastic]:
-  Elasticsearch client for Google Go.
+  Elasticsearch client for Go.
 
 
 [[groovy]]
